@@ -1,0 +1,4 @@
+#idea folder
+.idea/
+src/main/java/TestMain.java
+target/classes/TestMain.class
